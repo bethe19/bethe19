@@ -1,3 +1,26 @@
+<h2>Hey, I'm Bethe 👾</h1>
+
+<p>
+  Software Engineering student · 🇪🇹 Ethiopia <br>
+</p>
+
+---
+
+### ⚒️ Tech Stack
+
+`C++` · `Java` · `Python` · `JavaScript`  
+`Figma`  
+
+---
+
+### 🔗 Find Me
+
+- 🐙 [GitHub](https://github.com/bethe19)  
+- 💬 Telegram: `@betheba`  
+- 🌍 Portfolio: *coming soon...*
+
+---
+
 ## Hi there 👋
 
 <!--
