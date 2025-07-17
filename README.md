@@ -15,7 +15,7 @@
 
 ### 🔗 Find Me
 
-- 🐙 [GitHub](https://github.com/bethe19)  
+- 🐙 [Linkedin](https://www.linkedin.com/in/bethe-bayou-457ab72a)  
 - 💬 Telegram: `@betheba`  
 - 🌍 Portfolio: *coming soon...*
 
