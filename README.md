@@ -7,11 +7,6 @@ Passionate about coding, football, and building cool stuff.
 
 ### 🔗 Connect with Me
 
-- 🐙 [LinkedIn](https://www.linkedin.com/in/bethe-bayou-457ab72a)  
-- 💬 Telegram: `@betheba`  
+- 🐙 [LinkedIn](https://www.linkedin.com/in/bethe-bayou) 
+- 💬 Telegram: `@bethe19`  
 - 🌍 Portfolio: *coming soon...*
-
----
-
-### 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=bethe19&color=blue)
