@@ -6,6 +6,6 @@
   <a href="https://www.linkedin.com/in/bethe-bayou"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:bethebayou@gmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://t.me/bethe19"><img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="https://bethebayou.vercel.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+  <a href="https://bethebayou.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
   <a href="tel:+251920420134"><img src="https://img.shields.io/badge/Phone-222222?style=for-the-badge&logo=phone&logoColor=white"/></a>
 </p>
