@@ -7,3 +7,5 @@
   <a href="https://bethebayou.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
   <a href="tel:+251920420134"><img src="https://img.shields.io/badge/Phone-222222?style=for-the-badge&logo=phone&logoColor=white"/></a>
 </p>
+<!-- <p>&nbsp;<img align="left" width=450px src="https://github-readme-stats.vercel.app/api?username=bethe19&show_icons=true&theme=radical&locale=en" alt="bethebayou" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=bethe19&show_icons=true&theme=radical&locale=en&layout=compact" alt="bethebayou" /></p> -->
