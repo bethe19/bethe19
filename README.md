@@ -17,12 +17,15 @@
   <img src="https://skillicons.dev/icons?i=javascript" height="55" />
   <img src="https://skillicons.dev/icons?i=cpp" height="55" />
   <img src="https://skillicons.dev/icons?i=java" height="55" />
+  <img src="https://skillicons.dev/icons?i=git" height="55" />
+  <img src="https://skillicons.dev/icons?i=postman" height="55" />
   <img src="https://skillicons.dev/icons?i=python" height="55" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="55" />
   <img src="https://skillicons.dev/icons?i=postgres" height="55" />
   <img src="https://skillicons.dev/icons?i=redis" height="55" />
   <img src="https://skillicons.dev/icons?i=aws" height="55" />
   <img src="https://skillicons.dev/icons?i=docker" height="55" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="55" />
   <img src="https://skillicons.dev/icons?i=react" height="55" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="55" />
   <img src="https://skillicons.dev/icons?i=html" height="55" />
